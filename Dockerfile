@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian
+FROM balenalib/rpi-raspbian:stretch
 
 MAINTAINER Evan Salter <evanearlsalter@gmail.com>
 
